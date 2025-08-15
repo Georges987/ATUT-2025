@@ -1,0 +1,10 @@
+total 36
+drwxrwxr-x 4 overlord overlord 4096 Aug 11 11:45 .
+drwxrwxr-x 3 overlord overlord 4096 Aug 11 11:45 ..
+drwxrwxr-x 4 overlord overlord 4096 Jun 27  2019 2019
+-rw-rw-r-- 1 overlord overlord   50 Jun 27  2019 fichier.txt
+-rw-rw-r-- 1 overlord overlord 7578 May  9  2019 image.png
+-rw-rw-r-- 1 overlord overlord    0 Aug 11 11:45 liste.txt
+-rw-rw-r-- 1 overlord overlord 5907 May 16  2019 lorem.txt
+drwxrwxr-x 2 overlord overlord 4096 Jun 28  2019 test
+-rw-rw-r-- 1 overlord overlord    0 Jun 28  2019 test2
